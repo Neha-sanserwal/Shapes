@@ -1,0 +1,11 @@
+.DS_Store
+.nyc_output/
+.signore
+.snapshots/
+appTests/
+coverage/
+expected.txt
+output.txt
+faliure.txt
+*.swp
+*.sh
